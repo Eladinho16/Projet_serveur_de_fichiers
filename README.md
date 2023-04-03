@@ -1,6 +1,6 @@
 # Projet_serveur_de_fichiers
 
-Developpement d'un serveur de fichiers qui permet a des clients de telecharger des fichiers. 
+Développement d'un serveur de fichiers qui permet a des clients de telecharger des fichiers. 
 Les fichiers transférables  sont stockés dans un répertoire spécifié dans la configuration.
 
 Protocol de transfert de fichiers :

@@ -10,6 +10,6 @@ Protocol de transfert de fichiers :
 -Le client peut indiquer le téléchargement d'un ou plusieurs fichiers de cette liste avant de terminer la session.
 -Plusieurs clients peuvent ouvrir une session simultanément sur le serveur.
 
-Lamgages :
+Langages :
 
 -Python
